@@ -1,4 +1,6 @@
-![Python Logo](python_logo.svg)
+<div align="center">
+  <img src="python_logo.svg" alt="Python Logo" width="200">
+</div>
 
 # Python-coursework 🚀
 
