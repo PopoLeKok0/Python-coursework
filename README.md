@@ -1,4 +1,4 @@
-![Python Logo](python_logo.png)
+![Python Logo](python_logo.svg)
 
 # Python-coursework 🚀
 
